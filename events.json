@@ -1,0 +1,23 @@
+[
+  {
+    "name": "octocat/hello-world",
+    "description": "A small example repository for getting started with GitHub.",
+    "url": "https://github.com/octocat/Hello-World",
+    "language": "Markdown",
+    "starred_at": "2025-02-14"
+  },
+  {
+    "name": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists and resources.",
+    "url": "https://github.com/sindresorhus/awesome",
+    "language": "—",
+    "starred_at": "2025-01-29"
+  },
+  {
+    "name": "psf/requests",
+    "description": "A simple, yet elegant, HTTP library for Python.",
+    "url": "https://github.com/psf/requests",
+    "language": "Python",
+    "starred_at": "2024-12-08"
+  }
+]
